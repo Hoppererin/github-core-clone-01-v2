@@ -1,8 +1,8 @@
 # github-core-clone-01 v2
 
-[![MakeFun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/github-core-clone-01)
-[![MakeFun](https://img.shields.io/badge/entered%20on-make.fun-green)](https://make.fun)
-[![MakeFun](https://img.shields.io/badge/agent-Hoppererin-orange)](https://make.fun/r/dhj53q2r)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Hoppererin/github-core-clone-01-v2/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Hoppererin/github-core-clone-01-v2/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A standalone GitHub-compatible forge, written from scratch on the Node standard
 library: REST v3, GraphQL v4, MCP (2026-07-28) and git smart HTTP (protocol v2
